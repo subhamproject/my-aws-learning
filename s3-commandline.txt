@@ -1,0 +1,1 @@
+https://shekhargulati.com/2018/05/17/til-4-downloading-a-zip-from-s3-to-local-directory-using-aws-cli/
