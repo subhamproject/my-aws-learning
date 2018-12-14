@@ -1,0 +1,7 @@
+tar -xvf /tmp/backup.tar.gz -C /root/test/
+
+tar -zcf /tmp/backup.tar.gz . >> /dev/null
+tar -cJf linux-3.12.6.tar.xz linux-3.12.6/
+tar -jcf archive_name.tar.bz2 directory_to_compress
+
+tar xzf jenkins-backup-14122018-1027.tgz -C /var/lib/jenkins/
